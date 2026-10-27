@@ -1,0 +1,149 @@
+{
+  "style": "stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, deep navy and electric blue with gold accents, never photographic",
+  "assets": [
+    {
+      "name": "BG_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "Vertical 19.5:9 portrait background, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light: a calm city skyline seen from a rooftop at golden hour, warm amber sky across the top, a cool deep-navy silhouette band of towers across the bottom third, the centre deliberately empty and uncluttered so UI can sit over it, deep navy and electric blue palette with gold highlights, never photographic, no text, no UI elements, no letters, no logos"
+    },
+    {
+      "name": "BG_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "Vertical 19.5:9 portrait background, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light: a dusk city skyline, very low contrast and almost empty across the upper two thirds, a denser deep-navy silhouette band of towers across the bottom, electric blue and deep navy palette, smooth gradients and no noise so UI reads over it, never photographic, no text, no UI elements, no letters, no logos"
+    },
+
+    {
+      "name": "sprite_mark_stack",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_mark_stack.png",
+      "prompt": "One single abstract emblem of three offset glass slabs forming an upward step, symmetric composition, centred, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, blue glass with a gold top edge, isolated subject, no letters, no text, no numbers, never photographic"
+    },
+    {
+      "name": "sprite_crane",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_crane.png",
+      "prompt": "STRICT ORIENTATION: side view, jib pointing RIGHT. One single low-poly tower crane, side view facing RIGHT, centred, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, steel blue with a gold cable, isolated subject, no text, never photographic"
+    },
+    {
+      "name": "sprite_cloud",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_cloud.png",
+      "prompt": "One single soft faceted cloud, symmetric left to right, centred, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, pale blue-white, isolated subject, no text, never photographic"
+    },
+    {
+      "name": "sprite_airship",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_airship.png",
+      "prompt": "STRICT ORIENTATION: side view, nose facing RIGHT. One single small blimp, side view facing RIGHT, centred, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, pale steel blue hull with a gold fin, isolated subject, no text, never photographic"
+    },
+    {
+      "name": "sprite_spark_burst",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_spark_burst.png",
+      "prompt": "One single soft radial burst of warm gold light, symmetric, centred, fading smoothly to nothing at the edges, stylized low-poly 3D render, flat faceted shading, soft golden-hour rim light, no plus-shaped sparkles, no six-ray stars, no bokeh dots, no outlined rings or halos, isolated subject, no text, never photographic"
+    },
+
+    {
+      "name": "sprite_icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_close.png",
+      "prompt": "One single thick rounded cross glyph, symmetric, centred, flat clean geometric form, stylized low-poly 3D render with soft rim light, pale blue-white, isolated subject, no text, no letters, never photographic"
+    },
+    {
+      "name": "sprite_icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_pause.png",
+      "prompt": "One single pause glyph of two rounded vertical bars, symmetric, centred, flat clean geometric form, stylized low-poly 3D render with soft rim light, pale blue-white, isolated subject, no text, no letters, never photographic"
+    },
+    {
+      "name": "sprite_icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_back.png",
+      "prompt": "One single rounded house-and-rooftop glyph, symmetric, centred, flat clean geometric form, stylized low-poly 3D render with soft rim light, pale blue-white, isolated subject, no text, no letters, never photographic"
+    },
+    {
+      "name": "sprite_icon_stats",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_stats.png",
+      "prompt": "One single three-bar ascending chart glyph, centred, flat clean geometric form, stylized low-poly 3D render with soft rim light, pale blue-white with a gold tallest bar, isolated subject, no text, no letters, no numbers, never photographic"
+    },
+    {
+      "name": "sprite_icon_settings",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_settings.png",
+      "prompt": "One single rounded slider-control glyph of two horizontal rails with round knobs, symmetric, centred, flat clean geometric form, stylized low-poly 3D render with soft rim light, pale blue-white, isolated subject, no text, no letters, never photographic"
+    },
+    {
+      "name": "sprite_icon_chevron",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_chevron.png",
+      "prompt": "One single thick rounded downward chevron glyph, symmetric, centred, flat clean geometric form, stylized low-poly 3D render with soft rim light, bright cyan, isolated subject, no text, no letters, never photographic"
+    },
+
+    {
+      "name": "sprite_step_swing",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_step_swing.png",
+      "prompt": "One single instructional pictogram: a glass floor slab hanging from a short cable with a curved arrow sweeping left and right under it, centred, symmetric, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, blue glass and gold arrow, isolated subject, no text, no letters, never photographic"
+    },
+    {
+      "name": "sprite_step_tap",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_step_tap.png",
+      "prompt": "One single instructional pictogram: a rounded fingertip pressing down with two small ripple arcs beneath it, centred, symmetric, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, pale blue-white with a gold ripple, isolated subject, no text, no letters, never photographic"
+    },
+    {
+      "name": "sprite_step_trim",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_step_trim.png",
+      "prompt": "One single instructional pictogram: a glass floor slab with its overhanging right end shearing off and tumbling away, centred, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, blue glass with a gold cut edge, isolated subject, no text, no letters, never photographic"
+    },
+
+    {
+      "name": "sprite_building_tile",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_building_tile.png",
+      "prompt": "One single slender glass office tower, front elevation, symmetric left to right, centred, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, blue glass facade with warm lit windows, isolated subject, no text, never photographic"
+    },
+    {
+      "name": "sprite_district_harbor",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_district_harbor.png",
+      "prompt": "One single compact cluster of waterfront glass towers on a small quay, front three-quarter view, centred, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, cool cyan glass over calm navy water, isolated subject, no text, never photographic"
+    },
+    {
+      "name": "sprite_district_civic",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_district_civic.png",
+      "prompt": "One single compact cluster of civic stone-and-glass towers around a domed hall, front three-quarter view, centred, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft golden-hour rim light, warm gold and pale stone over deep navy, isolated subject, no text, never photographic"
+    },
+    {
+      "name": "sprite_district_neon",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_district_neon.png",
+      "prompt": "One single compact cluster of night-time towers with warm lit windows and thin blue edge lighting, front three-quarter view, centred, stylized low-poly 3D render, flat faceted shading, clean geometric forms, soft rim light, electric blue and amber over deep navy, isolated subject, no text, never photographic"
+    }
+  ]
+}
